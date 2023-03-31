@@ -68,7 +68,7 @@ function App() {
                 </h2>
                 <div className='buttons'>
                   <button className='btn btn-info' onClick={() => completedTask(task.id)}>
-                    Completed
+                    Done
                   </button>
                   <button className='btn btn-danger' onClick={() => deleteTask(task.id)}>
                     Delete
