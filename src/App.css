@@ -11,7 +11,7 @@
 /* ******************Todo List****************** */
 .container {
   background-image: repeating-linear-gradient(#893af0, #000);
-  min-width: 400px;
+  min-width: 300px;
   width: fit-content;
   border: 1px solid #893af0;
   border-radius: 2rem;
