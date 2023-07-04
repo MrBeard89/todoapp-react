@@ -77,6 +77,7 @@ function App() {
               </div>
             )
           })}
+          {todoList.length === 0 ? '' : <span className='counter'>{todoList.length}</span>}
         </div>
       </div>
     </div>
