@@ -11,6 +11,8 @@ This is a Todo app with React.
     # You can add Todo
     # You can select Todo Completed
     # You can delete Todo
+    # You can Filter Complete Todos(All and Completed)
+    # Counter Functionality(All and Completed)
 
 Glad you come by, and read my introduction to this project, have a nice day !
 
@@ -22,5 +24,3 @@ Technologies that i used to this project:
       # Css3
       # Bootstrap5
       # React Js
-
-
